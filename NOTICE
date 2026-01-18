@@ -1,0 +1,11 @@
+NOTICE
+
+This repository contains machine learning models and associated data files that are licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.
+
+The following files are covered by this license:
+- common.onnx (ONNX model file)
+- charset.json (Character set definition file)
+
+Commercial use of these models and data is strictly prohibited without explicit permission from the copyright holder.
+
+For complete license terms, please see the LICENSE file in this repository.
